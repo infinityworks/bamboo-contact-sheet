@@ -2,6 +2,8 @@
 
 A quick and dirty way to create an office contact sheet from Bamboo HR
 
+![output](https://github.com/infinityworks/bamboo-contact-sheet/blob/master/output.png?raw=true)
+
 ## Getting started
 
 To run this yourself, you'll need - 

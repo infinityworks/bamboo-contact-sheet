@@ -6,16 +6,17 @@ A quick and dirty way to create an office contact sheet from Bamboo HR
 
 ## Getting started
 
-To run this yourself, you'll need - 
+To run this yourself, you'll need -
 
 1. Python 3.x or higher
 2. A Bamboo HR API key with permissions to retrieve the employee directory
 3. PyBambooHR
 
 Once you have a Bamboo HR API key and Python installed, run:
+
 ```
 pip install PyBambooHR
-bamboo-contact-sheet.py <your-bamboo-hr-api-key>
+bamboo-contact-sheet.py <your-bamboo-hr-api-key> location
 ```
 
 ## Changing the output
